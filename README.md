@@ -1,9 +1,9 @@
+<H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
+
  <H3> Name : NARESH.R</H3>
 <H3>Register No : 212223240104</H3>
 <H3> Experiment 1</H3>
 <H3>DATE: 25-03-2025</H3>
-
-<H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim :
 
